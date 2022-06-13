@@ -1,0 +1,1 @@
+$.mobile.changePage("/wap/order_lists.wap",{ userId: uid ,pageNo: pno,pageSize:psize});
